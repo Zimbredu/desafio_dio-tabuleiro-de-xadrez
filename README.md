@@ -10,8 +10,11 @@
 <div align="center">
 <a href="https://www.imagensanimadas.com/cat-xadrez-613.htm"><img src="https://www.imagensanimadas.com/data/media/613/xadrez-imagem-animada-0069.gif" border="0" alt="xadrez-imagem-animada-0069" /></a>
   </div>
-
-
+  
+  <div align="center">
+  <p><a href="https://www.imagensanimadas.com/" target="_blank">🤚Click here</a>!</p>
+    </div>
+ <!--<a href="https://www.alura.com.br/busca?query=forma%C3%A7%C3%A3o+java"_black>🤚Click here</a>-->
 
 
 
