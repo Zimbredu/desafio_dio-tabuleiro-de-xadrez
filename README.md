@@ -24,11 +24,3 @@
  width"40" height="40"/>
 !</h3></p>
 
-{
-  "container": "#base",
-  "items": 3,
-  "slideBy": "page",
-  "mouseDrag": true,
-  "swipeAngle": false,
-  "speed": 400
-}
