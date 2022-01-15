@@ -24,3 +24,50 @@
  width"40" height="40"/>
 !</h3></p>
 
+<div id="da-slider" class="da-slider">
+<div class="da-slide">
+<h2>
+Coloque seu titulo</h2>
+<p>
+Fala ou descreva seu conteudo referente a imagem ao lado ou artigo que você pretende divulgar.</p>
+<a href="#" class="da-link">Leia mais</a>
+<div class="da-img">
+<img src="http://www.iconsdb.com/icons/preview/black/google-code-xxl.png" />
+</div>
+</div>
+<div class="da-slide">
+<h2>
+Coloque seu titulo</h2>
+<p>
+Fala ou descreva seu conteudo referente a imagem ao lado ou artigo que você pretende divulgar.</p>
+<a href="#" class="da-link">Leia mais</a>
+<div class="da-img">
+<img src="http://www.iconsdb.com/icons/preview/black/google-blog-search-xxl.png" />
+</div>
+</div>
+<div class="da-slide">
+<h2>
+Coloque seu titulo</h2>
+<p>
+Fala ou descreva seu conteudo referente a imagem ao lado ou artigo que você pretende divulgar.</p>
+<a href="#" class="da-link">Leia mais</a>
+<div class="da-img">
+<img src="http://www.iconsdb.com/icons/preview/black/blogger-5-xxl.png" />
+</div>
+</div>
+<div class="da-slide">
+<h2>
+Coloque seu titulo</h2>
+<p>
+Fala ou descreva seu conteudo referente a imagem ao lado ou artigo que você pretende divulgar.</p>
+<a href="#" class="da-link">Leia mais</a>
+<div class="da-img">
+<img src="http://www.iconsdb.com/icons/preview/black/money-bag-xxl.png" />
+</div>
+</div>
+<nav class="da-arrows">
+<span class="da-arrows-prev"></span>
+<span class="da-arrows-next"></span>
+</nav>
+
+</div>
